@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable  name="QuantitySelector">
+        <!--counter-->
+        <attr name="counter_text_color" format="color" />
+        <attr name="counter_text_size" format="dimension" />
+
+        <attr name="plus_icon"  format="reference"/>
+        <attr name="minus_icon"  format="reference"/>
+
+        <attr name="icon_height" format="dimension" />
+        <attr name="icon_width" format="dimension" />
+
+
+
+    </declare-styleable >
+</resources>

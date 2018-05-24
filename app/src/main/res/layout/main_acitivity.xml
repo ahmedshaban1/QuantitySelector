@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+        <com.retrofitdemo.quantityselector.QuantitySelector
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:counter_text_color="@color/colorAccent"
+            app:counter_text_size="30sp"
+            app:minus_icon="@mipmap/ic_launcher"
+            app:plus_icon="@mipmap/ic_launcher"/>
+
+</LinearLayout>
